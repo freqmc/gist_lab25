@@ -1,0 +1,6 @@
+﻿  gist.c
+C:\Users\Administrator\source\repos\gist\gist.c(18,11): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Administrator\source\repos\gist\gist.c(16,12): warning C4101: 'dmin': unreferenced local variable
+C:\Users\Administrator\source\repos\gist\gist.c(15,9): warning C4101: 'mmax': unreferenced local variable
+C:\Users\Administrator\source\repos\gist\gist.c(16,18): warning C4101: 'dmax': unreferenced local variable
+  gist.vcxproj -> C:\Users\Administrator\source\repos\gist\x64\Debug\gist.exe
